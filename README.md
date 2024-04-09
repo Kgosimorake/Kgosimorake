@@ -13,6 +13,6 @@ to increase interests in businesses by creating apps and websites to increase th
 <br>
 <hr>
 </body> 
-<img src=".7f446aef751c099be2cbe4de7f99ec33a820833b￼Enter"height="100"width="120"><hr>
+<img src=./storage/emulated/0/logo/logos/Picsart_24-04-04_13-43-11-669.png￼Enter"height="100"width="120"><hr>
 </html>
 
