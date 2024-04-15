@@ -1,3 +1,12 @@
+
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Feedback</a></li>
+      </ul>
+    </div>
+ 
 <!DOCTYPE html>
 <!-- kgosietsile Morake -->
 <html lang="en" dir="ltr">
@@ -15,15 +24,7 @@ to increase interests in businesses by creating apps and websites to increase th
       <div class="logo">
         <a href="#"></a>
       </div>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Feedback</a></li>
-      </ul>
-    </div>
-  </nav>
+      <ul> </nav>
   <div class="img"></div>
   <div class="center">
     <div class="title"></div>
