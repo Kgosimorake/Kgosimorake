@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
 H1 {
 background-color: green:
 }
+</style>
 </head>
 <body>
 <br>
