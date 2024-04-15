@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
+<style>
+</style>
 <head>
 </head>
 <body>
-<style>
-H1 {
-background-color: green:
-}
-</style>
 
 <h1>KGOSIETSILE MORAKE </h1>
 <p>KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
