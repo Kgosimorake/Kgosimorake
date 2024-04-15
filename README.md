@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-H1 {
-background-color: green:
-}
-</style>
 </head>
 <body>
 <br>
@@ -13,7 +8,11 @@ background-color: green:
 <br>
 <hr>
 <h1>KGOSIETSILE MORAKE </h1>
-<p>KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
+<style>
+H1 {
+background-color: green:
+}
+</style><p>KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
 to increase interests in businesses by creating apps and websites to increase they're marketshare  </p>
 <br>
 <hr>
