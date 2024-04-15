@@ -13,7 +13,7 @@ to increase interests in businesses by creating apps and websites to increase th
   <nav>
     <div class="menu">
       <div class="logo">
-        <a href="#">CodingLab</a>
+        <a href="#"></a>
       </div>
       <ul>
         <li><a href="#">Home</a></li>
