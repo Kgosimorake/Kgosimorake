@@ -5,7 +5,8 @@
 </head>
 <body>
 
-<h1><style>
+<h1>
+<style>
 {
 background-color: green:
 }
