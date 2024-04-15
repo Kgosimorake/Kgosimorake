@@ -6,10 +6,7 @@
 <body>
 
 <h1>
-<style>
-{
-background-color: green:
-}
+
 KGOSIETSILE MORAKE </h1>
 <p>KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
 to increase interests in businesses by creating apps and websites to increase they're marketshare  </p>
