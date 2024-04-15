@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
+    KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is and bring ideas to life
 to increase interests in businesses by creating apps and websites to increase they're marketshare </   title> 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href=" "/>
