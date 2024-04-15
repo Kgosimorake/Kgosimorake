@@ -29,10 +29,11 @@ to increase interests in businesses by creating apps and websites to increase th
 </body>
 </html>    
   <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="#">kM</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>
         <li><a href="#">Feedback</a></li>
       </ul>
     </div>
- 
+<div img="https://github.com/Kgosimorake/Kgosimorake/blob/main/Picsart_24-04-04_13-43-11-669.png">
+</div>
